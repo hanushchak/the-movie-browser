@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">The Movie Browser - Maksym Hanushchak 000776919</string>
+    <string name="app_title">The Movie Browser</string>
+    <string name="instant_search_title">Instant Search</string>
+    <string name="search_button">Search</string>
+    <string name="my_favorites_button">My Favorites</string>
+    <string name="title_hint">Title</string>
+    <string name="release_year_hint">Release Year</string>
+    <string name="newSearch_search">Search</string>
+    <string name="newSearch_cancel">Cancel</string>
+    <string name="new_search">New Search</string>
+    <string name="newSearch_release_year">Release Year</string>
+    <string name="newSearch_movie_title">Movie Title</string>
+    <string name="newSearch_new_search">New Search</string>
+    <string name="my_favorites">My Favorites</string>
+    <string name="no_results">No results :(</string>
+    <string name="movie_poster_image">Movie poster image</string>
+    <string name="remove_from_favorites">Remove from Favorites</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="no_favorites">You haven\'t added any movies to your favorites yet :(</string>
+</resources>
